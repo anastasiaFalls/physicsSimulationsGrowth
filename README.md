@@ -2,6 +2,9 @@
 A personal exploration into the development and evolution of computerized physics simulations from 2018-2024. 
 
 
+This is an ongoing personal project that I will contribute to over the course of Feburary-May
+
+
 # *What is being explored*
 
 The evolution of computerized physical simulations in recent years, with a focus on the specific variables that contributed to the exponential growth in the simulation's efficiency and realism. 
