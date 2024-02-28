@@ -7,4 +7,31 @@ Note: Usually what I am looking at is phD research.
 - The Technical University of Wien, Austria, Vienna (Károly Zsolnai-Fehér - Technische Universität Wien (TU Wien) 
    * Thesis on Photorealistic Material Learning and Synthesis
 
-- 
+2020 Abstract:
+
+
+Light transport simulations are the industry-standard way of creating convincing photorealistic 
+imagery and are widely used in creating animation movies, computer animations,
+medical and architectural visualizations among many other notable applications. These
+techniques simulate how millions of rays of light interact with a virtual scene, where
+the realism of the final output depends greatly on the quality of the used materials and
+the geometry of the objects within this scene. In this thesis, we endeavor to address
+two key issues pertaining to photorealistic material synthesis: first, creating convincing
+photorealistic materials requires years of expertise in this field and requires a non-trivial
+amount of trial and error from the side of the artist. We propose two learning-based
+methods that enables novice users to easily and quickly synthesize photorealistic materials
+by learning their preferences and recommending arbitrarily many new material models
+that are in line with their artistic vision. We also augmented these systems with a neural
+renderer that performs accurate light-transport simulation for these materials orders of
+magnitude quicker than the photorealistic rendering engines commonly used for these
+tasks. As a result, novice users are now able to perform mass-scale material synthesis,
+and even expert users experience a significant improvement in modeling times when many
+material models are sought.
+Second, simulating subsurface light transport leads to convincing translucent material
+visualizations, however, most published techniques either take several hours to compute
+an image, or make simplifying assumptions regarding the underlying physical laws of
+volumetric scattering. We propose a set of real-time methods to remedy this issue by
+decomposing well-known 2D convolution filters into a set of separable 1D convolutions
+while retaining a high degree of visual accuracy. These methods execute within a few
+milliseconds and can be inserted into state-of-the-art rendering systems as a simple
+post-processing step without introducing intrusive changes into the rendering pipeline.
