@@ -15,6 +15,6 @@ The evolution of computerized physical simulations in recent years, with a focus
 Used to refine my own simulations but also explore the profound ramifications of these developments in contrast to the beginning of the time period explored, from both a developer and engineering standpoint as well as a socilogical aspect. 
 
 
-# *TO NAVIGATE THIS PROJECT
+# *To navigate this project:
 
-Please browse "Branches." 
+Please browse the main branch. 
