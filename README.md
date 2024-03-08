@@ -2,7 +2,7 @@
 A personal exploration into the development and evolution of computerized physics simulations from 2018-2024. 
 
 
-This is an ongoing personal project that I will contribute to over the course of Feburary-May
+This is an ongoing personal project that I will contribute to over the course of Feburary-However long it takes, this research project is aimed at being very extensive. 
 
 
 # *What is being explored*
