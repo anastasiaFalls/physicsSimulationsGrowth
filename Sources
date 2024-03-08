@@ -1,8 +1,13 @@
 
-Note: Quick description of the researcher and their dissertation thesis. 
+Note: Quick description of the researcher and their dissertation/thesis. This page is more for people who are curious about not 
+only where my data comes from, but also the individual research of the others that I will credit in my work. Some of these papers are 
+actually on their own, very interesting! I suggest checking out especially, who I will refer to most throughout this project (1). He also
+makes YouTube videos that present the information of his/other's papers in a digestible, entertaining, and interesting format. 
 
 
-- The Technical University of Wien, Austria, Vienna (Károly Zsolnai-Fehér - Technische Universität Wien (TU Wien) 
+1) 
+
+The Technical University of Wien, Austria, Vienna (Károly Zsolnai-Fehér - Technische Universität Wien (TU Wien) 
    * Thesis on Photorealistic Material Learning and Synthesis
 
 2020 Abstract:
@@ -33,3 +38,34 @@ decomposing well-known 2D convolution filters into a set of separable 1D convolu
 while retaining a high degree of visual accuracy. These methods execute within a few
 milliseconds and can be inserted into state-of-the-art rendering systems as a simple
 post-processing step without introducing intrusive changes into the rendering pipeline.
+
+
+
+
+2) 
+
+
+A Hybrid Material Point Method for Frictional Contact with
+Diverse Materials
+XUCHEN HAN, University of California, Los Angeles, USA
+THEODORE F. GAST, JIXIE EFFECTS, USA
+QI GUO, University of California, Los Angeles, USA
+STEPHANIE WANG, University of California, Los Angeles, USA
+CHENFANFU JIANG, University of Pennsylvania, USA
+JOSEPH TERAN, University of California, Los Angeles, USA
+
+2019 Abstract: 
+
+We present a new hybrid Lagrangian Material Point Method for simulating elastic objects like hair, rubber,
+and soft tissues that utilizes a Lagrangian mesh for internal force computation and an Eulerian mesh for self
+collision as well as coupling with external materials. While recent Material Point Method (MPM) techniques
+allow for natural simulation of hyperelastic materials represented with Lagrangian meshes, they utilize an
+updated Lagrangian discretization where the Eulerian grid degrees of freedom are used to take variations of the
+potential energy. This often coarsens the degrees of freedom of the Lagrangian mesh and can lead to artifacts.
+We develop a hybrid approach that retains Lagrangian degrees of freedom while still allowing for natural
+coupling with other materials simulated with traditional MPM, e.g. sand, snow, etc. Furthermore, while recent
+MPM advances allow for resolution of frictional contact with codimensional simulation of hyperelasticity, they
+do not generalize to the case of volumetric materials. We show that our hybrid approach resolves these issues.
+We demonstrate the efficacy of our technique with examples that involve elastic soft tissues coupled with
+
+
