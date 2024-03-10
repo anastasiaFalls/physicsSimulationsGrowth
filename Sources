@@ -66,6 +66,5 @@ We develop a hybrid approach that retains Lagrangian degrees of freedom while st
 coupling with other materials simulated with traditional MPM, e.g. sand, snow, etc. Furthermore, while recent
 MPM advances allow for resolution of frictional contact with codimensional simulation of hyperelasticity, they
 do not generalize to the case of volumetric materials. We show that our hybrid approach resolves these issues.
-We demonstrate the efficacy of our technique with examples that involve elastic soft tissues coupled with
 
 
