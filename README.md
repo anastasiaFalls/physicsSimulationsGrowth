@@ -18,3 +18,4 @@ Used to refine my own simulations but also explore the profound ramifications of
 # *To navigate this project:
 
 Please browse the main branch. 
+<img src="https://t.bkit.co/w_66046a05bf6c9.gif" />
